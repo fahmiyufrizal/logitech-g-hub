@@ -7,6 +7,7 @@ Logitech G Hub + Logitech Gaming Software Loader - Designed for Diskless System
 
 ## Pre-Configured
 [-] Skip First Screen
+
 [-] Disable run at computer startup
 
 ## Pre-Downloaded Profiles/Resources
