@@ -10,7 +10,7 @@ Logitech G Hub + Logitech Gaming Software Loader - Designed for Diskless System
 [-] Disable run at computer startup
 
 ## Pre-Downloaded Profiles/Resources
-[-] Logitech G102
+[-] Logitech G102 (sementara tidak tersedia di 2022.11.xxxx)
 
 ## Thanks to
 - Allah SWT
