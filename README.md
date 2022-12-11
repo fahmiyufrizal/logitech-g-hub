@@ -17,6 +17,7 @@ Logitech G Hub + Logitech Gaming Software Loader - Designed for Diskless System
 - Allah SWT
 - KireiGaming
 - Viper-Net
+- 21Net-Manisrejo
 - Kroco Latoz
 - dan semua yang telah memanfaatkan project ini^^
 
