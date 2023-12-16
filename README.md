@@ -27,6 +27,4 @@ Logitech G Hub + Logitech Gaming Software Loader - Designed for Diskless System
 [-] Jalankan z_Update_Logitech_G_Hub_Component.bat terlebih dahulu, tunggu sampai selesai lalu buka Launch_GHub_Loader.exe
 
 ## Download Link
-- [Logitech G Hub Loader](https://drive.google.com/file/d/16MHWuH77-qsDr7j_bY6pvccSeH-UHGI6/view?usp=sharing)
-- [Logitech Gaming Software Addons](https://drive.google.com/file/d/1Ui-xSo0Pbt-NNEVydQTpQ7lgPdzgCAKx/view?usp=sharing)
-- [Updater-Only](https://drive.google.com/file/d/1fQDbK5fOAdNKpIh6nXAwjI6LxDGGjYWD/view?usp=sharing)
+- [Installer and Updater]([https://drive.google.com/file/d/16MHWuH77-qsDr7j_bY6pvccSeH-UHGI6/view?usp=sharing](https://github.com/fahmiyufrizal/logitech-g-hub/raw/main/Logitech_G_Hub_Component_Updater.zip))
